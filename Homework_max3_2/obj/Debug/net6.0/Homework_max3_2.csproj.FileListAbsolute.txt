@@ -1,0 +1,15 @@
+/Users/elena/Documents/Homework_P1/Homework_max3_2/bin/Debug/net6.0/Homework_max3_2
+/Users/elena/Documents/Homework_P1/Homework_max3_2/bin/Debug/net6.0/Homework_max3_2.deps.json
+/Users/elena/Documents/Homework_P1/Homework_max3_2/bin/Debug/net6.0/Homework_max3_2.runtimeconfig.json
+/Users/elena/Documents/Homework_P1/Homework_max3_2/bin/Debug/net6.0/Homework_max3_2.dll
+/Users/elena/Documents/Homework_P1/Homework_max3_2/bin/Debug/net6.0/Homework_max3_2.pdb
+/Users/elena/Documents/Homework_P1/Homework_max3_2/obj/Debug/net6.0/Homework_max3_2.csproj.AssemblyReference.cache
+/Users/elena/Documents/Homework_P1/Homework_max3_2/obj/Debug/net6.0/Homework_max3_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elena/Documents/Homework_P1/Homework_max3_2/obj/Debug/net6.0/Homework_max3_2.AssemblyInfoInputs.cache
+/Users/elena/Documents/Homework_P1/Homework_max3_2/obj/Debug/net6.0/Homework_max3_2.AssemblyInfo.cs
+/Users/elena/Documents/Homework_P1/Homework_max3_2/obj/Debug/net6.0/Homework_max3_2.csproj.CoreCompileInputs.cache
+/Users/elena/Documents/Homework_P1/Homework_max3_2/obj/Debug/net6.0/Homework_max3_2.dll
+/Users/elena/Documents/Homework_P1/Homework_max3_2/obj/Debug/net6.0/refint/Homework_max3_2.dll
+/Users/elena/Documents/Homework_P1/Homework_max3_2/obj/Debug/net6.0/Homework_max3_2.pdb
+/Users/elena/Documents/Homework_P1/Homework_max3_2/obj/Debug/net6.0/Homework_max3_2.genruntimeconfig.cache
+/Users/elena/Documents/Homework_P1/Homework_max3_2/obj/Debug/net6.0/ref/Homework_max3_2.dll
