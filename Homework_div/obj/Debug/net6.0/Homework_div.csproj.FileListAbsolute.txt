@@ -1,0 +1,15 @@
+/Users/elena/Documents/Homework_P1/Homework_div/bin/Debug/net6.0/Homework_div
+/Users/elena/Documents/Homework_P1/Homework_div/bin/Debug/net6.0/Homework_div.deps.json
+/Users/elena/Documents/Homework_P1/Homework_div/bin/Debug/net6.0/Homework_div.runtimeconfig.json
+/Users/elena/Documents/Homework_P1/Homework_div/bin/Debug/net6.0/Homework_div.dll
+/Users/elena/Documents/Homework_P1/Homework_div/bin/Debug/net6.0/Homework_div.pdb
+/Users/elena/Documents/Homework_P1/Homework_div/obj/Debug/net6.0/Homework_div.csproj.AssemblyReference.cache
+/Users/elena/Documents/Homework_P1/Homework_div/obj/Debug/net6.0/Homework_div.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elena/Documents/Homework_P1/Homework_div/obj/Debug/net6.0/Homework_div.AssemblyInfoInputs.cache
+/Users/elena/Documents/Homework_P1/Homework_div/obj/Debug/net6.0/Homework_div.AssemblyInfo.cs
+/Users/elena/Documents/Homework_P1/Homework_div/obj/Debug/net6.0/Homework_div.csproj.CoreCompileInputs.cache
+/Users/elena/Documents/Homework_P1/Homework_div/obj/Debug/net6.0/Homework_div.dll
+/Users/elena/Documents/Homework_P1/Homework_div/obj/Debug/net6.0/refint/Homework_div.dll
+/Users/elena/Documents/Homework_P1/Homework_div/obj/Debug/net6.0/Homework_div.pdb
+/Users/elena/Documents/Homework_P1/Homework_div/obj/Debug/net6.0/Homework_div.genruntimeconfig.cache
+/Users/elena/Documents/Homework_P1/Homework_div/obj/Debug/net6.0/ref/Homework_div.dll
